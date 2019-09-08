@@ -1,6 +1,6 @@
 # 《荀子》胶片版
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d04c0d0f-965e-4bc6-95cd-bf78bca2fba7/deploy-status)](https://app.netlify.com/sites/shi-ji/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd4edb17-c4a7-4ecd-b3a5-fece8e8f5a20/deploy-status)](https://app.netlify.com/sites/xunzi/deploys)
 
 TLDR: [https://xunzi.qiaopang.com](https://xunzi.qiaopang.com)
 
